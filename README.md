@@ -17,4 +17,3 @@ Adds an endpoint to the WordPress REST API for searching via SearchWP.
 * Licensed under the terms of the [GNU General Public License version 2](http://www.gnu.org/licenses/gpl-2.0.html) or later.
 
 * Please share with your neighbor.
-
